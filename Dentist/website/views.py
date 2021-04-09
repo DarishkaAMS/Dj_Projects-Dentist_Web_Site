@@ -8,4 +8,7 @@ def home_page_view(request):
 
 
 def contact_page_view(request):
+    # if request.method == "POST":
+    #     pass
+    # else:
     return render(request, 'contacts.html', {})
