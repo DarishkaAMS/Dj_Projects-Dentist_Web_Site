@@ -422,3 +422,36 @@ p a:hover {
 #footer div#connect a#googleplus:hover {
 	background: url(../images/icons.png) no-repeat -25px -95px;
 }
+
+.contactForm
+{
+    width: 40%;
+    padding: 40 px;
+    background: #fff;
+}
+.contactForm h2
+{
+    font-size: 30 px;
+    color: #333;
+    font-weight: 500;
+}
+
+.contactForm .inputBox
+{
+    position: relative;
+    width: 100%;
+    margin-top: 10 px;
+
+}
+
+.contactForm .inputBox input
+.contactForm .inputBox textarea
+{
+    width: 100%;
+    padding: 5 px 0;
+    font-size: 16 px;
+    margin: 10 px 0;
+    border: none;
+    border-bottom: 2x solid #333;
+    outline: none;
+}
