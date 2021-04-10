@@ -45,7 +45,7 @@ django-templated-mail==1.1.1
 djangorestframework==3.12.1
 djangorestframework-camel-case==1.2.0
 djangorestframework-jwt==1.11.0
-djangorestframework-simplejwt==4.6.0
+djangorestframework-simplejwt==4.4.0
 djoser==2.1.0
 dnspython==2.1.0
 docopt==0.6.2
@@ -116,6 +116,7 @@ Pillow==8.1.0
 pipenv==2020.11.15
 pipwin==0.5.0
 pluggy==0.13.1
+portalocker==2.3.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.8
 protobuf==3.12.2
