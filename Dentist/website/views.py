@@ -12,3 +12,4 @@ def contact_page_view(request):
     #     pass
     # else:
     return render(request, 'contacts.html', {})
+
